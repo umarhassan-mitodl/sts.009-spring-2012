@@ -4,6 +4,8 @@ description: This resource contains information regarding lecture 3.
 file: /courses/sts-009-evolution-and-society-spring-2012/e3f9305dc944fe72c9758a6691279af8_MITSTS_009S12_lec3.pdf
 file_size: 1167163
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

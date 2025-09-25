@@ -7,6 +7,8 @@ description: Charles Darwin brought finch specimens back to England after his tr
 file: /courses/sts-009-evolution-and-society-spring-2012/5ea82051f0d3630f5235cb92109a0583_sts-009s12-th.jpg
 file_size: 5154
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Charles Darwin brought finch specimens back to England after his trip to
     the Galapagos Islands. These played an important role in the creation of Darwin's
