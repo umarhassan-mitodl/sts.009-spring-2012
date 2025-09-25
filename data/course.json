@@ -25,6 +25,7 @@
     "website": "sts-009-evolution-and-society-spring-2012"
   },
   "course_title": "Evolution and Society",
+  "hide_download": true,
   "course_description": "This course provides a broad conceptual and historical introduction to scientific theories of evolution and their place in the wider culture. It embraces historical, scientific and anthropological/cultural perspectives grounded in relevant developments in the biological sciences since 1800 that are largely responsible for the development of the modern theory of evolution by natural selection. Students read key texts, analyze key debates (e.g. Darwinian debates in the 19th century, and the creation controversies in the 20th century) and give class presentations.\n",
   "department_numbers": [
     "STS"
@@ -35,6 +36,7 @@
     "content": "5ea82051-f0d3-630f-5235-cb92109a0583",
     "website": "sts-009-evolution-and-society-spring-2012"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",
