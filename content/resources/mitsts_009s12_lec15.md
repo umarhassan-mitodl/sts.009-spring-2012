@@ -4,6 +4,8 @@ description: This resource contains information regarding lecture 15.
 file: /courses/sts-009-evolution-and-society-spring-2012/020ed57357282e95aaca5118c5881601_MITSTS_009S12_lec15.pdf
 file_size: 2240361
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
